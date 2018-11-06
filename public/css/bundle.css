@@ -1,0 +1,33 @@
+body {
+    background: #201b36;
+    color: #dce1c2;
+    margin-top: 24px;
+    margin-bottom: 128px;
+}
+
+a {
+    color: #a6a89a;
+}
+
+a:hover {
+    color: #dce1c2;
+}
+
+.logo {
+    font-family: 'Alfa Slab One', cursive;
+}
+
+.counter-container {
+    text-align: center;
+}
+
+#counter {
+    font-size: 8em;
+    font-family: 'Alfa Slab One', cursive;
+    text-align: center;
+}
+
+h3 {
+    font-weight: bold;
+    margin-top: 36px;
+}
